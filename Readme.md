@@ -27,15 +27,15 @@ You can train your own datasets by train.py. Please replace your own datasets_di
 
 **Citations**
 
-@inproceedings{10.1145/3581783.3613789,\\
-author = {Zhang, Ting and Jiang, Nanfeng and Wu, Hongxin and Zhang, Keke and Niu, Yuzhen and Zhao, Tiesong},\\
-title = {HCSD-Net: Single Image Desnowing with Color Space Transformation},\\
-year = {2023},\\
-doi = {10.1145/3581783.3613789},\\
-booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},\\
-pages = {8125–8133},\\
-numpages = {9},\\
-series = {MM '23}\\
+@inproceedings{10.1145/3581783.3613789,\
+author = {Zhang, Ting and Jiang, Nanfeng and Wu, Hongxin and Zhang, Keke and Niu, Yuzhen and Zhao, Tiesong},\
+title = {HCSD-Net: Single Image Desnowing with Color Space Transformation},\
+year = {2023},\
+doi = {10.1145/3581783.3613789},\
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},\
+pages = {8125–8133},\
+numpages = {9},\
+series = {MM '23}\
 }
 
 
